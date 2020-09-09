@@ -1,3 +1,5 @@
+![SportsCaveLogo](https://github.com/PerezDC/SportsCaveSln/blob/master/Sport-Cave-Logo-1024x1024.jpg)
+
 # SportsCaveSln
 Student demo based on Adam Freeman's book, https://www.apress.com/gp/book/9781484254394
 
@@ -9,3 +11,4 @@ Student demo based on Adam Freeman's book, https://www.apress.com/gp/book/978148
     dotnet new xunit -o SportsCaveSln/OutdoorProducts.Tests --framework netcoreapp3.1
     dotnet sln SportsCaveSln add SportsCaveSln/OutdoorProducts.Tests 
     dotnet add SportsCaveSln/OutdoorProducts.Tests reference SportsCaveSln/OutdoorProducts
+
