@@ -1,5 +1,6 @@
-![SportsCaveLogo](https://github.com/PerezDC/SportsCaveSln/blob/master/Sport-Cave-Logo-1024x1024.jpg)
-
+<p align="center">
+<img src="https://github.com/PerezDC/SportsCaveSln/blob/master/Sport-Cave-Logo-1024x1024.jpg" alt="SportsCaveLogo" width="500" height="500">
+</p>
 # SportsCaveSln
 Student demo based on Adam Freeman's book, https://www.apress.com/gp/book/9781484254394
 
