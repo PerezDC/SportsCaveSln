@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://github.com/PerezDC/SportsCaveSln/blob/master/Sport-Cave-Logo-1024x1024.jpg" alt="SportsCaveLogo" width="500" height="500">
+    <img src="https://github.com/PerezDC/SportsCaveSln/blob/master/Sport-Cave-Logo-1024x1024.jpg" alt="SportsCaveLogo" width="500" height="500">
 </p>
 
 # SportsCaveSln
-Student demo based on Adam Freeman's book, https://www.apress.com/gp/book/9781484254394
+Student demo based on Adam Freeman's book, which can be accessed [here](https://www.apress.com/gp/book/9781484254394).
 
 ## Create Solution and Projects
     dotnet new globaljson --sdk-version 3.1.302 --output SportsCaveSln/OutdoorProducts
