@@ -26,6 +26,13 @@ Student demo based on Adam Freeman's book, which can be accessed [here](https://
 ## Connecting to the Database
 ![Screenshot2](https://github.com/PerezDC/SportsCaveSln/blob/master/ImageFiles/ScreenShot3.PNG)
 
+### Entity Framework
+1. __What is Entity Framework?__
+2. __What is a Connection String?__
+3. __What is a Database Context?__
+4. __What is a Model Repository?__
+5. __Migration vs Scaffolding?__
+6. __Seeding the database__
 ----
 
 ## Displaying the Products with bootstrap styling
