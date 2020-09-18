@@ -3,7 +3,7 @@
 </p>
 
 # SportsCaveSln
-Student demo based on Adam Freeman's book, which can be accessed [here](https://www.apress.com/gp/book/9781484254394).
+Student demo based on Adam Freeman's book, *Pro ASP.NET Core 3*, which can be accessed [here](https://www.apress.com/gp/book/9781484254394).
 
 ----
 ## Chapter 1
