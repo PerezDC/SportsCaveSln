@@ -34,3 +34,18 @@ Student demo based on Adam Freeman's book, *Pro ASP.NET Core 3*, which can be ac
 ----
 
 ## Chapter 2
+### Add, Filter, and highlight Category
+![Screenshot1Chapter8](https://github.com/PerezDC/SportsCaveSln/blob/master/ImageFiles/Chapter%208/LAB2A%20-%20Screenshot1%20-%20DPerez.PNG)
+
+----
+
+### Add Shopping Cart and Session Data
+![Screenshot2Chapter8](https://github.com/PerezDC/SportsCaveSln/blob/master/ImageFiles/Chapter%208/LAB2A%20-%20Screenshot2%20-%20DPerez.PNG)
+![Screenshot3Chapter8](https://github.com/PerezDC/SportsCaveSln/blob/master/ImageFiles/Chapter%208/LAB2A%20-%20Screenshot3%20-%20DPerez.PNG)
+
+----
+
+### Current Tests Status
+![Screenshot4Chapter8](https://github.com/PerezDC/SportsCaveSln/blob/master/ImageFiles/Chapter%208/LAB2A%20-%20Screenshot4%20-%20DPerez%20Formatted.PNG)
+
+All tests can be viewed in the [OutdoorProducts.Tests Project](https://github.com/PerezDC/SportsCaveSln/tree/master/OutdoorProducts.Tests).
