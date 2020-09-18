@@ -6,8 +6,8 @@
 Student demo based on Adam Freeman's book, which can be accessed [here](https://www.apress.com/gp/book/9781484254394).
 
 ----
-
-## Create Solution and Projects
+## Chapter 1
+### Create Solution and Projects
     dotnet new globaljson --sdk-version 3.1.302 --output SportsCaveSln/OutdoorProducts
     dotnet new web --no-https --output SportsCaveSln/OutdoorProducts --framework netcoreapp3.1
     dotnet new sln -o SportsCaveSln
@@ -18,15 +18,19 @@ Student demo based on Adam Freeman's book, which can be accessed [here](https://
     
 ----
 
-## Configure and Build
+### Configure and Build
 ![Screenshot1](https://github.com/PerezDC/SportsCaveSln/blob/master/ImageFiles/ScreenShot1.PNG)
 
 ----
 
-## Connecting to the Database
+### Connecting to the Database
 ![Screenshot2](https://github.com/PerezDC/SportsCaveSln/blob/master/ImageFiles/ScreenShot3.PNG)
 
 ----
 
-## Displaying the Products with bootstrap styling
+### Displaying the Products with bootstrap styling
 ![Screenshot3](https://github.com/PerezDC/SportsCaveSln/blob/master/ImageFiles/ScreenShot2.PNG)
+
+----
+
+## Chapter 2
