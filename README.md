@@ -3,7 +3,7 @@
 </p>
 
 # SportsCaveSln
-Student demo based on Adam Freeman's book, *Pro ASP.NET Core 3*, which can be accessed [here](https://www.apress.com/gp/book/9781484254394).
+* Student demo based on Adam Freeman's book, *Pro ASP.NET Core 3*, which can be accessed [here](https://www.apress.com/gp/book/9781484254394).
 
 ----
 ## Chapter 1
@@ -48,4 +48,4 @@ Student demo based on Adam Freeman's book, *Pro ASP.NET Core 3*, which can be ac
 ### Current Tests Status
 ![Screenshot4Chapter8](https://github.com/PerezDC/SportsCaveSln/blob/master/ImageFiles/Chapter%208/LAB2A%20-%20Screenshot4%20-%20DPerez%20Formatted.PNG)
 
-All tests can be viewed in the [OutdoorProducts.Tests Project](https://github.com/PerezDC/SportsCaveSln/tree/master/OutdoorProducts.Tests).
+* All tests can be viewed in the [OutdoorProducts.Tests](https://github.com/PerezDC/SportsCaveSln/tree/master/OutdoorProducts.Tests) Project.
