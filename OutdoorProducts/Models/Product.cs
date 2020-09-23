@@ -15,5 +15,6 @@ namespace OutdoorProducts.Models
         public decimal Price { get; set; }
 
         public string Category { get; set; }
+
     }
 }
