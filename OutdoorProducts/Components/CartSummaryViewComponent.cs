@@ -1,5 +1,4 @@
-﻿using System;
-using OutdoorProducts.Models;
+﻿using OutdoorProducts.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace OutdoorProducts.Components
