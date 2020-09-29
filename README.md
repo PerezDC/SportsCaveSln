@@ -49,3 +49,11 @@
 ![Screenshot4Chapter8](https://github.com/PerezDC/SportsCaveSln/blob/master/ImageFiles/Chapter%208/LAB2A%20-%20Screenshot4%20-%20DPerez%20Formatted.PNG)
 
 * All tests can be viewed in the [OutdoorProducts.Tests](https://github.com/PerezDC/SportsCaveSln/tree/master/OutdoorProducts.Tests) Project.
+
+----
+
+## Chapter 3
+![Screenshot1Chapter3](https://github.com/PerezDC/SportsCaveSln/blob/master/ImageFiles/Checkout%20Screenshot%201.PNG)
+![Screenshot2Chapter3](https://github.com/PerezDC/SportsCaveSln/blob/master/ImageFiles/Checkout%20Screenshot%202.PNG)
+![Screenshot3Chapter3](https://github.com/PerezDC/SportsCaveSln/blob/master/ImageFiles/Checkout%20Screenshot%203.PNG)
+![UpdatedTests](https://github.com/PerezDC/SportsCaveSln/blob/master/ImageFiles/Updated%20Tests%20Screenshot%204.PNG)
